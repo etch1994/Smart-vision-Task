@@ -2,8 +2,8 @@
 Sportswear Sales-Marketing
 
 1) 'the task.docx' this file contain the task info and requirments
-2) 'ZadenGroup - 'sales' target.html'  the model of management team
+2) 'XxxxxGroup - 'sales' target.html'  the model of management team
 3) 'P-management.txt'  contains a link of the presentation for the marketeing team
-4) 'ZadenGroup - 'label' target .html ' the model of Marketing team
+4) 'XxxxxGroup - 'label' target .html ' the model of Marketing team
 5) 'P-marketing.txt'  contains a link of the presentation for the marketeing team
 6) 'full_gen_data.csv 'the data itself
